@@ -7,9 +7,7 @@
 
 ###  Professional Overview
 
-I am a passionate developer skilled in building scalable **full-stack applications**, intelligent systems, and modern user experiences.  
-My expertise ranges from **backend APIs and database architecture** to **frontend design** and **AI-driven automation systems**.  
-Currently, I’m exploring the intersection of **web development, AI**, and **automation** to create meaningful digital solutions.
+I am a passionate developer skilled in building scalable **full-stack applications**, intelligent systems, and modern user experiences. My expertise ranges from **backend APIs and database architecture** to **frontend design** and **AI-driven automation systems**. Currently, I’m exploring the intersection of **web development, AI**, and **automation** to create meaningful digital solutions.
 
 ---
 
