@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Kumar 
 ## [View Portfolio](https://abhi13.vercel.app/)
 
-## Full Stack Developer | AI & ML Enthusiast 
+## Developer | AI & ML Enthusiast 
 
 ---
 
