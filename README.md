@@ -18,7 +18,7 @@ I am a passionate developer skilled in building scalable **full-stack applicatio
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **ORMs:** Prisma ORM, Mongoose  
 - **Programming Languages:** JavaScript, TypeScript, Python, SQL, C#, Java  
-- **Tools:** Git, Docker, Swagger, Postman, Prisma Studio    
+- **Tools:** Git, Docker, Swagger, Postman, Prisma Studio, AWS   
 - **Other:** Game Development (Unity), Algorithm Design, Agile Development, Generative AI, Large Language Models  
 
 ---
